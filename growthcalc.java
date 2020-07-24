@@ -1,8 +1,5 @@
 /* PROJECT 1: Youtube Growth Calculator */
 //Name: Mr. M Chandan Agrahar 
-//USN: 1RR17CS070
-//Semester: 7th
-//College: Rajarajeswari College Of Engineering
 //Date: 16-Jul-2020
 
 package intern;
